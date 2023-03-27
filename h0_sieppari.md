@@ -1,5 +1,5 @@
 Menin githubin aloitus sivulle ja painoin `F12` ja valitsin network välilehden.  
-Tämän jälkeen päivit sivuston painamalla `F5`. 
+Tämän jälkeen päivitin sivuston painamalla `F5`. 
 Tämä näyttää oman verkkoni generoiman liikenteen sivustolle.
   
 Näen, että suurin osa liikenteestä on `get` methodeja, joita ovat img, script (js) ja html.
